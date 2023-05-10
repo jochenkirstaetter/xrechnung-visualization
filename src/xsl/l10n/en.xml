@@ -238,6 +238,7 @@
   
   <entry key="sum-of-third-party-payment-amounts">Third party payment total</entry>
 
+  <entry key="no-script">The display of content on this page is limited without JavaScript.</entry>
   <entry key="_disclaimer">We assume no liability for the accuracy of the data.</entry>
   <entry key="_invoice-note-group">Notes on the invoice</entry>
   <entry key="_open">Open</entry>
