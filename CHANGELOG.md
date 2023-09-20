@@ -10,7 +10,11 @@ This release is compatible with XRechnung ?.?.?
 
 ### Fixed
 
+<<<<<<< HEAD
 * Wrong German translation for BT-10
+=======
+* Cardinalities of BT-23 "Business process type", BT-34 "Seller electronic address", and BT-49 "Buyer electronic address" in `src/xsd/xrechnung-semantic-model.xsd`
+>>>>>>> d283778 (fix cardinalities)
 
 ## v2023-07-31
 
