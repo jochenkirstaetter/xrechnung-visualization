@@ -11,6 +11,10 @@ This release is compatible with XRechnung ?.?.?
 
 ### Fixed
 
+<<<<<<< HEAD
+=======
+* Wrong German translation for BT-10 (thanks to GitHub user @futurescenario9).
+>>>>>>> 1f8ecf2 (add contribution thanks)
 * Scheme identifier 'VAT' in BT-31 removed from templates
 * Display of specification identifier in PDF
 
