@@ -5,12 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
-## UNRELEASED
+## v2024-06-20
 
-This release is compatible with XRechnung ?.?.?
+This release is compatible with XRechnung 3.0.x
 
 ### Fixed
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -19,6 +20,9 @@ This release is compatible with XRechnung ?.?.?
 * Scheme identifier 'VAT' in BT-31 removed from templates
 =======
 * Incorrect German translation for BT-10 (thanks to GitHub user @futurescenario9).
+=======
+* Incorrect German translation for BT-10 (thanks to GitHub user @futurescenario9)
+>>>>>>> a03529d (update to upcoming release)
 * BT-31: scheme identifier 'VAT' removed from templates
 * condition removed from BT-29 in cii2xr conversion, which prevented display of multiple BT-29 from different bindings
 >>>>>>> b1e60ce (Resolve "BT-29 in CII")
