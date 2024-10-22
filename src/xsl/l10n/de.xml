@@ -235,9 +235,9 @@
   <entry key="artikelklassifizierung">Artikelklassifizierung</entry>
   <entry key="date-format">[D].[M].[Y,4]</entry>
   <entry key="datetime-format">[D].[M].[Y,4] [H]:[m]:[s]</entry>
-  <entry key="amount-format">###.##0,00</entry>
+  <entry key="amount-format">###.##0,00##########</entry>
   <entry key="percentage-format">##0,00</entry>
-  <entry key="at-least-two-format">###.##0,#################</entry>
+  <entry key="at-least-two-format">###.##0,00###############</entry>
   
   <entry key="sum-of-third-party-payment-amounts">Summe Fremdforderungen</entry>
 
